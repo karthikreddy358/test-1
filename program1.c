@@ -5,5 +5,6 @@ int main()
   printf("hello space");
   printf("hello solor system");
   pritnf("hello universe");
+  printf("hello mikely way");
 return 0;
 }
