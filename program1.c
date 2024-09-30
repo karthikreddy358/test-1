@@ -6,5 +6,6 @@ int main()
   printf("hello solor system");
   pritnf("hello universe");
   printf("hello mikely way");
+  printf("hello");
 return 0;
 }
