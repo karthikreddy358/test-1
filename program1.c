@@ -7,5 +7,6 @@ int main()
   pritnf("hello universe");
   printf("hello mikely way");
   printf("hello hello");
+  printf("hello hello");
 return 0;
 }
