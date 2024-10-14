@@ -10,5 +10,6 @@ int main()
   printf("hello hello");
   printf("hello mikely way");
   printf("*************");
+  printf("@@@@@@@@@@@@@@@@");
 return 0;
 }
