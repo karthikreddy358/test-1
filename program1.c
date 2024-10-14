@@ -9,5 +9,6 @@ int main()
   printf("hello hello");
   printf("hello hello");
   printf("hello mikely way");
+  printf("*************");
 return 0;
 }
