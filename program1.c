@@ -11,5 +11,7 @@ int main()
   printf("hello mikely way");
   printf("*************");
   printf("@@@@@@@@@@@@@@@@");
+  printf("%%%%%%%%%%%%%%%%%%%%%");
+  printf("@@@@@@@@@@");
 return 0;
 }
